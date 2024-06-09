@@ -29,6 +29,10 @@ const LeftBanner = () => {
         <p> My role involves working with a variety of technologies and programming languages to ensure seamless user experiences 
 and efficient server-side functionality. On the front-end, I create responsive and dynamic interfaces using HTML, CSS, 
 and JavaScript frameworks such as React. On the back-end, Node.js, and SQL or NoSQL databases.</p>
+
+<a href="https://drive.google.com/file/d/1fKZtmZAfPEyoLs9UU5gQSyj_5B0-pMq-/view" target="_blank">
+    <button className="mt-14 text-white h-[50px] w-[150px] bg-designColor rounded-lg">Download Resume</button>
+</a>
         <Media/>
        </div>
     );

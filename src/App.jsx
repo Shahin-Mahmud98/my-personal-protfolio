@@ -1,5 +1,6 @@
 
 import Banner from './components/banner/Banner'
+import Blog from './components/blogs/Blog'
 import Contact from './components/contact/Contact'
 import Feature from './components/features/Feature'
 import Footer from './components/footer/Footer'
@@ -22,6 +23,7 @@ function App() {
     <Feature/>
     <Projects/>
     <Resume/>
+    <Blog/>
     <Contact/>
     <Footer/>
     <FooterBottom/>
