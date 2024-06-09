@@ -19,23 +19,22 @@ const Education = () => {
          title="Computer Science & Engineering"
          subTitle="Presidency University (2020-2023)"
          result="3.27"
-         des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+         des="I design, develop, and optimize computing systems and software solutions. My expertise is data structures, software engineering"
          />
-         <ResumeCard
+          <ResumeCard
+         title="WEB Development Course"
+         subTitle="Programming Hero"
+         result="0403"
+         des="Learning and Training, Coding and Programming, Development
+Environment Familiarization Communication Skills & managing APIs "
+         />
+         {/* <ResumeCard
          title="Computer Science & Engineering"
          subTitle="Presidency University (2020-2023)"
          result="3.27"
          des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
            Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-         />
-         <ResumeCard
-         title="Computer Science & Engineering"
-         subTitle="Presidency University (2020-2023)"
-         result="3.27"
-         des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-         />
+         />  */}
 
          
          
@@ -52,10 +51,10 @@ const Education = () => {
          title="Internship"
          subTitle="naztec (2023-2023)"
          result="Dhaka"
-         des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+         des="Learning and Training, Coding and Programming, Development
+Environment Familiarization Communication Skills.managing APIs,NoSQL databases"
          />
-         <ResumeCard
+         {/* <ResumeCard
          title="Computer Science & Engineering"
          subTitle="Presidency University (2020-2023)"
          result="3.27"
@@ -68,7 +67,7 @@ const Education = () => {
          result="3.27"
          des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
            Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-         />
+         /> */}
 
          
          

@@ -1,8 +1,8 @@
 import Title from "../../Layout/Title";
 import Card from "./Card";
-import { AiFillAppstore } from "react-icons/ai";
+// import { AiFillAppstore } from "react-icons/ai";
 import { FaMobile,FaGlobe,FaBars } from "react-icons/fa";
-import { SiProgress,SiAntdesign } from "react-icons/si";
+// import { SiProgress,SiAntdesign } from "react-icons/si";
 
 
 const Feature = () => {
@@ -12,20 +12,20 @@ const Feature = () => {
        <div className="grid grid-cols-3 gap-20">
         <Card title="Business Stratagy"
         des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
-        icon={<AiFillAppstore/>}
+        icon={<FaBars/>}
         />
         
         <Card 
-        title="Business Stratagy"
+        title="App Development"
         des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
         icon={<FaMobile/>}
         />
         <Card
-        title="Business Stratagy"
+        title="WEB APP Development"
         des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
         icon={<FaGlobe/>}
         />
-        <Card
+        {/* <Card
         title="Business Stratagy"
         des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
         icon={<FaBars />
@@ -40,7 +40,7 @@ const Feature = () => {
         title="Business Stratagy"
         des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
         icon={<SiAntdesign/>}
-        />
+        /> */}
        
        </div>
        </section>

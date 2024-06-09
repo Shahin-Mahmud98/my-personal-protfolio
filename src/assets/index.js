@@ -2,6 +2,7 @@ import logo from "./images/logo.png";
 import bannerImg from "./images/bannerImg.png";
 import img from "./images/img.jpg";
 import img2 from "./images/img2.jpg";
+import img3 from "./images/img3.jpg";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
@@ -15,6 +16,7 @@ export {
   profile,
   img,
   img2,
+  img3,
   logo,
   bannerImg,
   projectOne,

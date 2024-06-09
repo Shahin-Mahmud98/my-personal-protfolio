@@ -4,7 +4,7 @@ import Media from "./Media";
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-        words: ["Professional Coder.", "Full Stack Developer.", "UI Designer."],
+        words: ["Professional Coder.", "Full Stack Developer."],
         loop: true,
         typeSpeed: 20,
         deleteSpeed: 10,
@@ -26,7 +26,9 @@ const LeftBanner = () => {
             cursorColor="#ff014f"
           />
         </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!</p>
+        <p> My role involves working with a variety of technologies and programming languages to ensure seamless user experiences 
+and efficient server-side functionality. On the front-end, I create responsive and dynamic interfaces using HTML, CSS, 
+and JavaScript frameworks such as React. On the back-end, Node.js, and SQL or NoSQL databases.</p>
         <Media/>
        </div>
     );
