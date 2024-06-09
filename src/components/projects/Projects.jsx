@@ -16,38 +16,44 @@ const Projects = () => {
            <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Builders Web App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="  Users can signup, login, and log out from the site & also they add products, and manage their
+add product like update ,delete . Users can also Shows Logged in user"
           src={Property}
         />
         <ProjectsCard
           title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" Users can signup, login, and log out from the site & also they order products, and manage their
+orders. Users can also give a review of the site which is shown on the homepage."
           src={Ema}
         />
         <ProjectsCard
           title="E-commerce Website Car"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Users can signup, login, and log out from the site & also they order products, and manage their
+orders. Users can also give a review of the site which is shown on the homepage.
+
+- Admin can make another admin, manage all orders and products, and also add a new product to the
+site.
+"
           src={Exetic}
         />
         <ProjectsCard
           title="Builders Web App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des=" Users can signup, login, and log out from the site & also they add products, and manage their
+add product like update ,delete . Users can also Shows Logged in user"
           src={Property}
         />
         <ProjectsCard
           title="E-commerce Website Car"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Users can signup, login, and log out from the site & also they order products, and manage their
+orders. Users can also give a review of the site which is shown on the homepage.
+
+- Admin can make another admin, manage all orders and products, and also add a new product to the"
           src={Exetic}
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="E-commerce Website"
+          des="Users can signup, login, and log out from the site & also they order products, and manage their
+orders. Users can also give a review of the site which is shown on the homepage."
           src={Ema}
         />
       </div>

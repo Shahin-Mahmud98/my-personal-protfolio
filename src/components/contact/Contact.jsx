@@ -60,7 +60,7 @@ const Contact = () => {
             <div className="w-full h-auto flex justify-between">
                 <ContactLeft/>
                 <div className="w-[60%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne ">
-        <form className="w-full flex flex-col gap-4 py-12">
+        <form className="w-full flex flex-col gap-4 py-20">
 
         {errMsg && (
                 <p className="py-3 bg-gradient-to-r from-[#1e2024] to-[#23272b] shadow-shadowOne text-center text-orange-500 text-base tracking-wide animate-bounce">

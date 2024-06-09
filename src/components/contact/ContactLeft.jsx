@@ -9,7 +9,10 @@ const ContactLeft = () => {
         <div className="flex flex-col gap-4">
             <h3 className="text-3xl font-bold text-white"> Md Shahin Mahmud</h3>
             <p className="text-lg font-normal text-gray-400">MERN Stack Developer</p>
-            <p className="text-base text-gray-400 tracking-wide">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem perferendis iure quae assumenda tempora ullam quibusdam cumque labore! Neque, id?
+            <p className="text-base text-gray-400 tracking-wide">My role involves working with a variety of technologies and programming languages 
+              to ensure seamless user experiences and efficient server-side functionality. On the front-end, 
+              I create responsive and dynamic interfaces using HTML, CSS, and JavaScript frameworks such as React. 
+              On the back-end, Node.js, and SQL or NoSQL databases.
             </p>
             <p className="text-base text-gray-400 flex items-center gap-2">
                Phone: <span className="text-lightText">+8801786588096</span>
