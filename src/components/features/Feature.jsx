@@ -10,19 +10,19 @@ const Feature = () => {
         <section id="features" className="w-full  py-20 border-b-[1px] border-b-black">
        <Title title ="Features" des ="what I do"/>
        <div className="grid grid-cols-3 gap-20">
-        <Card title="Business Stratagy"
-        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
+        <Card title="Learn System Design"
+        des="It should include a clear introduction or bio, a selection of diverse projects tailored to my target audience,!"
         icon={<FaBars/>}
         />
         
         <Card 
-        title="App Development"
-        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
+        title="Development"
+        des="I do work every web development and database adminstration!"
         icon={<FaMobile/>}
         />
         <Card
         title="WEB APP Development"
-        des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dolores sint distinctio voluptas maxime, dolorem excepturi ut beatae rem dolorum!"
+        des="I have worked as both a front-end and back-end developer for 1 years.!"
         icon={<FaGlobe/>}
         />
         {/* <Card
